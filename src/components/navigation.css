@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #222;
+  height: 70px;
+}
+
+.sidebar {
+  width: 150px;
+
+  height: 100vh;
+  background-color: #222;
+}
+
+.sidebar h2 {
+  color: white;
+  text-align: center;
+  padding: 10px;
+  justify-content: center;
+  margin-left: -10px;
+}
